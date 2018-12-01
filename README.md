@@ -4,6 +4,7 @@
 ###### Script Crack Hash-MD5
 ```
 Crack Hashes As text file
+ex: python md5.py hashes.txt md5
 ```
 
 ## Services
@@ -25,4 +26,4 @@ Crack Hashes As text file
 
 ## Screenshots
 ###### [*] Crack Hashes
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/Mkali07/MD5-Cracker/master/md5.jpg)
