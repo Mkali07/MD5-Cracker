@@ -146,6 +146,7 @@ class view_info(object):
                     cmd5.write(hashvalue+":"+response+'\n')
         else:
             flag = False
+	    print (colored("[+]",'blue')),("try Crack hash  %s Cracked" % hashvalue)
             with open('faild_crack_md5.txt', 'a') as notmd5:
                     notmd5.write(hashvalue+'\n')
 
