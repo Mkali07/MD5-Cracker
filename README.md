@@ -26,4 +26,4 @@ ex: python md5.py hashes.txt md5
 
 ## Screenshots
 ###### [*] Crack Hashes
-![alt tag](https://raw.githubusercontent.com/Mkali07/MD5-Cracker/master/md5.jpg)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/Mkali07/MD5-Cracker/master/md5.jpg)](https://www.aparat.com/v/91EsG)
